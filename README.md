@@ -37,10 +37,10 @@ The design is a love letter to *Lycoris Recoil*. The case is a two-tone anodized
 
 The design was modeled in 3D and rendered in May 2023. Two editions were explored — one for each of the two agents:
 
-### 🌊 Takina Edition — *silver top / blue bottom*
+### 🌊 Takina Edition — *navy / gold*
 
 <p align="center">
-  <img src="images/design/takina/01-emblem-detail.png" width="700" alt="Takina Edition — side profile" />
+  <img src="images/design/takina/01-angle.png" width="700" alt="Takina Edition — angle view" />
 </p>
 
 <details>
@@ -54,8 +54,8 @@ The design was modeled in 3D and rendered in May 2023. Two editions were explore
 </details>
 
 <details>
-<summary>Angle view</summary>
-<p align="center"><img src="images/design/takina/04-angle.png" width="700" /></p>
+<summary>Interior — top</summary>
+<p align="center"><img src="images/design/takina/04-interior-top.png" width="700" /></p>
 </details>
 
 ### 🌺 Chisato Edition — *silver top / red bottom*
@@ -63,74 +63,92 @@ The design was modeled in 3D and rendered in May 2023. Two editions were explore
 The Chisato Edition is the one that was actually built. The renders also explore a gold anodizing variant that was considered.
 
 <p align="center">
-  <img src="images/design/chisato/05-full-gold.png" width="700" alt="Chisato Edition — full render" />
+  <img src="images/design/chisato/09-full-render.png" width="700" alt="Chisato Edition — full render" />
 </p>
 
 <details>
-<summary>Gold variant — angle</summary>
-<p align="center"><img src="images/design/chisato/01-angle-gold.png" width="700" /></p>
-</details>
-
-<details>
-<summary>Emblem close-up</summary>
-<p align="center"><img src="images/design/chisato/04-emblem-closeup.png" width="700" /></p>
-</details>
-
-<details>
 <summary>Side profile</summary>
-<p align="center"><img src="images/design/chisato/06-side-profile.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/01-side-profile.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Bottom — emblem</summary>
-<p align="center"><img src="images/design/chisato/07-bottom-emblem.png" width="700" /></p>
+<summary>Top view</summary>
+<p align="center"><img src="images/design/chisato/02-top-view.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Bottom — emblem (front)</summary>
-<p align="center"><img src="images/design/chisato/08-bottom-emblem-front.png" width="700" /></p>
+<summary>Bottom view</summary>
+<p align="center"><img src="images/design/chisato/03-bottom-view.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Gold variant — angle</summary>
+<p align="center"><img src="images/design/chisato/04-angle-gold.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Bottom — top view</summary>
-<p align="center"><img src="images/design/chisato/09-bottom-topview.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/05-bottom-topview.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Bottom — USB port</summary>
-<p align="center"><img src="images/design/chisato/10-bottom-usb.png" width="700" /></p>
+<summary>Interior — bottom</summary>
+<p align="center"><img src="images/design/chisato/06-interior-bottom.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Corner angle</summary>
-<p align="center"><img src="images/design/chisato/11-corner-angle.png" width="700" /></p>
+<summary>Interior — bottom plate</summary>
+<p align="center"><img src="images/design/chisato/07-interior-bottom-plate.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Emblem close-up</summary>
-<p align="center"><img src="images/design/chisato/12-emblem-closeup.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/08-emblem-closeup.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Side profile — grey</summary>
+<p align="center"><img src="images/design/chisato/10-side-profile-grey.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Bottom — emblem</summary>
+<p align="center"><img src="images/design/chisato/11-bottom-emblem.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Bottom — emblem (front)</summary>
+<p align="center"><img src="images/design/chisato/12-bottom-emblem-front.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Bottom — USB port</summary>
+<p align="center"><img src="images/design/chisato/13-bottom-usb.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Corner angle</summary>
+<p align="center"><img src="images/design/chisato/14-corner-angle.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Emblem close-up</summary>
+<p align="center"><img src="images/design/chisato/15-emblem-closeup.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Emblem — engraved</summary>
-<p align="center"><img src="images/design/chisato/13-emblem-engraved.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/16-emblem-engraved.png" width="700" /></p>
+</details>
+
+<details>
+<summary>Emblem — red close-up</summary>
+<p align="center"><img src="images/design/chisato/17-emblem-red-closeup.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Side profile — reflection</summary>
-<p align="center"><img src="images/design/chisato/14-side-reflection.png" width="700" /></p>
-</details>
-
-#### 🔍 Interior Views
-
-<details>
-<summary>Interior — bottom</summary>
-<p align="center"><img src="images/design/chisato/02-interior-bottom.png" width="700" /></p>
-</details>
-
-<details>
-<summary>Interior — top</summary>
-<p align="center"><img src="images/design/chisato/03-interior-top.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/18-side-reflection.png" width="700" /></p>
 </details>
 
 ---
