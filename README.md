@@ -40,7 +40,7 @@ The design was modeled in 3D and rendered in May 2023. Two editions were explore
 ### 🌊 Takina Edition — *silver top / blue bottom*
 
 <p align="center">
-  <img src="images/design/takina/01-side-profile.png" width="700" alt="Takina Edition — side profile" />
+  <img src="images/design/takina/01-emblem-detail.png" width="700" alt="Takina Edition — side profile" />
 </p>
 
 <details>
