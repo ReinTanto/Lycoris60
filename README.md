@@ -3,7 +3,7 @@
 > *"A one-off 60% CNC-machined aluminium keyboard, inspired by* ***Lycoris Recoil***."
 
 <p align="center">
-  <img src="images/final/03-desk-angle.jpg" width="700" alt="Lycoris60 on the desk" />
+  <img src="images/design/chisato-final/03-desk-angle.jpg" width="700" alt="Lycoris60 on the desk" />
 </p>
 
 ---
@@ -150,18 +150,18 @@ The Chisato Edition is the one that was actually built. The renders also explore
 
 ---
 
-## 📷 The Result
+## 📷 The Result — *Chisato Edition*
 
 <p align="center">
-  <img src="images/final/01-held-in-hand.jpg" width="500" alt="Lycoris60 held in hand" />
+  <img src="images/design/chisato-final/01-held-in-hand.jpg" width="500" alt="Lycoris60 held in hand" />
 </p>
 
 <p align="center">
-  <img src="images/final/02-bottom-emblem.jpg" width="500" alt="Bottom plate with engraved spider lily emblem" />
+  <img src="images/design/chisato-final/02-bottom-emblem.jpg" width="500" alt="Bottom plate with engraved spider lily emblem" />
 </p>
 
 <p align="center">
-  <img src="images/final/03-desk-angle.jpg" width="500" alt="Lycoris60 on the desk" />
+  <img src="images/design/chisato-final/03-desk-angle.jpg" width="500" alt="Lycoris60 on the desk" />
 </p>
 
 ---
@@ -174,10 +174,10 @@ lycoris60/
 ├── audio/
 │   └── lycoris60.mp3        # Soundtest (MX Browns + GMK Bleached, no foam)
 └── images/
-    ├── design/
-    │   ├── takina/          # Takina Edition renders (silver / blue)
-    │   └── chisato/         # Chisato Edition renders (silver / red, built)
-    └── final/               # Photos of the finished board (Sep 2023)
+    └── design/
+        ├── takina/          # Takina Edition renders (silver / blue)
+        ├── chisato/         # Chisato Edition renders (silver / red, built)
+        └── chisato-final/   # Photos of the finished Chisato Edition board (Sep 2023)
 ```
 
 ---
