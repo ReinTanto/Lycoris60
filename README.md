@@ -15,7 +15,8 @@
 | **Form factor** | 60% (standard size) |
 | **Type** | One-off — a single board, not for sale |
 | **Case** | CNC-machined 6061 aluminium, anodized |
-| **Colorway** | Silver top / red bottom |
+| **Colorway** | Chisato Edition — silver top / red bottom |
+| **Editions** | Chisato (red, built) & Makina (blue, render only) |
 | **PCB** | Standard 60% with daughterboard support |
 | **Emblem** | Engraved spider lily (from *Lycoris Recoil*) |
 | **Sound profile** | No foam |
@@ -25,120 +26,122 @@
 
 ## 🌺 The Design
 
-The design is a love letter to *Lycoris Recoil*. The case is a two-tone anodized aluminium build — silver on top, red on the bottom — with a sharp angular notch along the sides, and the **spider lily** emblem from the anime engraved into the bottom plate.
+The design is a love letter to *Lycoris Recoil*. The case is a two-tone anodized aluminium build with a sharp angular notch along the sides, and the **spider lily** emblem from the anime engraved into the bottom plate.
 
-The design was modeled in 3D and rendered in May 2023. The renders explore two anodizing directions: the final silver/red, and a gold variant that was considered.
+The design was modeled in 3D and rendered in May 2023. Two editions were explored — one for each of the two agents:
 
-### Renders
+### 🌊 Makina Edition — *silver top / blue bottom*
 
-<details>
-<summary>Side profile</summary>
-<p align="center"><img src="images/design/render-01-side-profile.png" width="700" /></p>
-</details>
+<p align="center">
+  <img src="images/design/makina/01-side-profile.png" width="700" alt="Makina Edition — side profile" />
+</p>
 
 <details>
 <summary>Top view</summary>
-<p align="center"><img src="images/design/render-02-top-view.png" width="700" /></p>
+<p align="center"><img src="images/design/makina/02-top-view.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Bottom view</summary>
-<p align="center"><img src="images/design/render-03-bottom-view.png" width="700" /></p>
+<p align="center"><img src="images/design/makina/03-bottom-view.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Angle view</summary>
-<p align="center"><img src="images/design/render-04-angle.png" width="700" /></p>
+<p align="center"><img src="images/design/makina/04-angle.png" width="700" /></p>
 </details>
+
+### 🌺 Chisato Edition — *silver top / red bottom*
+
+The Chisato Edition is the one that was actually built. The renders also explore a gold anodizing variant that was considered.
+
+<p align="center">
+  <img src="images/design/chisato/09-full-gold.png" width="700" alt="Chisato Edition — full render" />
+</p>
 
 <details>
 <summary>Emblem detail</summary>
-<p align="center"><img src="images/design/render-05-emblem-detail.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/01-emblem-detail.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Gold variant</summary>
-<p align="center"><img src="images/design/render-06-gold-variant.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/02-gold-variant.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Gold variant — bottom</summary>
-<p align="center"><img src="images/design/render-07-bottom-gold.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/03-bottom-gold.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Gold variant — top</summary>
-<p align="center"><img src="images/design/render-08-top-gold.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/04-top-gold.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Gold variant — angle</summary>
-<p align="center"><img src="images/design/render-09-angle-gold.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/05-angle-gold.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Red variant — bottom</summary>
-<p align="center"><img src="images/design/render-10-bottom-red.png" width="700" /></p>
+<summary>Bottom plate</summary>
+<p align="center"><img src="images/design/chisato/06-bottom-red.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Red variant — emblem</summary>
-<p align="center"><img src="images/design/render-11-emblem-red.png" width="700" /></p>
+<summary>Bottom — emblem</summary>
+<p align="center"><img src="images/design/chisato/07-emblem-red.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Emblem close-up</summary>
-<p align="center"><img src="images/design/render-12-emblem-closeup.png" width="700" /></p>
+<p align="center"><img src="images/design/chisato/08-emblem-closeup.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Full render — gold</summary>
-<p align="center"><img src="images/design/render-13-full-gold.png" width="700" /></p>
+<summary>Side profile</summary>
+<p align="center"><img src="images/design/chisato/10-side-profile.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 2</summary>
-<p align="center"><img src="images/design/render-14-angle2.png" width="700" /></p>
+<summary>Bottom — emblem (angle)</summary>
+<p align="center"><img src="images/design/chisato/11-bottom-emblem.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 3</summary>
-<p align="center"><img src="images/design/render-15-angle3.png" width="700" /></p>
+<summary>Bottom — emblem (front)</summary>
+<p align="center"><img src="images/design/chisato/12-bottom-emblem-front.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 4</summary>
-<p align="center"><img src="images/design/render-16-angle4.png" width="700" /></p>
+<summary>Bottom — top view</summary>
+<p align="center"><img src="images/design/chisato/13-bottom-topview.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 5</summary>
-<p align="center"><img src="images/design/render-17-angle5.png" width="700" /></p>
+<summary>Bottom — USB port</summary>
+<p align="center"><img src="images/design/chisato/14-bottom-usb.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 6</summary>
-<p align="center"><img src="images/design/render-18-angle6.png" width="700" /></p>
+<summary>Corner angle</summary>
+<p align="center"><img src="images/design/chisato/15-corner-angle.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 7</summary>
-<p align="center"><img src="images/design/render-19-angle7.png" width="700" /></p>
+<summary>Emblem close-up</summary>
+<p align="center"><img src="images/design/chisato/16-emblem-closeup.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 8</summary>
-<p align="center"><img src="images/design/render-20-angle8.png" width="700" /></p>
+<summary>Emblem — engraved</summary>
+<p align="center"><img src="images/design/chisato/17-emblem-engraved.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Angle 9</summary>
-<p align="center"><img src="images/design/render-21-angle9.png" width="700" /></p>
-</details>
-
-<details>
-<summary>Angle 10</summary>
-<p align="center"><img src="images/design/render-22-angle10.png" width="700" /></p>
+<summary>Side profile — reflection</summary>
+<p align="center"><img src="images/design/chisato/18-side-reflection.png" width="700" /></p>
 </details>
 
 ---
@@ -182,7 +185,9 @@ lycoris60/
 ├── audio/
 │   └── lycoris60.mp3        # Soundtest (MX Browns + GMK Bleached, no foam)
 └── images/
-    ├── design/              # 3D design renders (May 2023)
+    ├── design/
+    │   ├── makina/          # Makina Edition renders (silver / blue)
+    │   └── chisato/         # Chisato Edition renders (silver / red, built)
     └── final/               # Photos of the finished board (Sep 2023)
 ```
 
