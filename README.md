@@ -2,10 +2,6 @@
 
 > *"A one-off 60% CNC-machined aluminium keyboard, inspired by* ***Lycoris Recoil***."
 
-<p align="center">
-  <img src="images/design/chisato-final/03-desk-angle.jpg" width="700" alt="Lycoris60 on the desk" />
-</p>
-
 ---
 
 ## ⚙️ Specs
