@@ -45,17 +45,17 @@ The design was modeled in 3D and rendered in May 2023. Two editions were explore
 
 <details>
 <summary>Top view</summary>
-<p align="center"><img src="images/design/takina/02-top-view.png" width="700" /></p>
+<p align="center"><img src="images/design/takina/04-top-view.png" width="700" /></p>
 </details>
 
 <details>
 <summary>Bottom view</summary>
-<p align="center"><img src="images/design/takina/03-bottom-view.png" width="700" /></p>
+<p align="center"><img src="images/design/takina/02-bottom-view.png" width="700" /></p>
 </details>
 
 <details>
-<summary>Interior — top</summary>
-<p align="center"><img src="images/design/takina/04-interior-top.png" width="700" /></p>
+<summary>Side view</summary>
+<p align="center"><img src="images/design/takina/03-side-view.png" width="700" /></p>
 </details>
 
 ### 🌺 Chisato Edition — *silver top / red bottom*
